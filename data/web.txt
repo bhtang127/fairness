@@ -1,0 +1,5 @@
+http://archive.ics.uci.edu/ml/datasets/Adult
+http://archive.ics.uci.edu/ml/datasets/communities+and+crime
+https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+https://github.com/propublica/compas-analysis  \\  https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis
+
